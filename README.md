@@ -57,3 +57,4 @@ cd url-shortener
 - CORS / dotenv
 
 ---
+"AI is only used for fixing errors."
